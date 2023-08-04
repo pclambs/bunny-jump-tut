@@ -1,0 +1,27 @@
+{
+  "name": "bunny-jump-tut",
+  "version": "1.0.0",
+  "description": "infinite-jumper game",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pclambs/bunny-jump-tut.git"
+  },
+  "keywords": [
+    "bunny",
+    "jump"
+  ],
+  "author": "pclambs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pclambs/bunny-jump-tut/issues"
+  },
+  "homepage": "https://github.com/pclambs/bunny-jump-tut#readme",
+  "dependencies": {
+    "phaser": "^3.60.0"
+  }
+}
