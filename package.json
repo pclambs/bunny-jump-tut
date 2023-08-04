@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/pclambs/bunny-jump-tut#readme",
   "dependencies": {
+    "eventemitter3": "^5.0.1",
     "phaser": "^3.60.0"
   }
 }
